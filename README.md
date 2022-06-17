@@ -1,24 +1,18 @@
-# README
+#live community
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##サイト概要
+・がんの治療、闘病に関する情報を共有できるコミュニティサイト
 
-Things you may want to cover:
+##サイトテーマ
+・病気と闘う患者が社会復帰に向け、患者同士の闘病に関する情報の交換、闘病生活の記録、社会復帰された経験者のアドバイスなどを共有することができるサイト
 
-* Ruby version
+##テーマを選んだ理由
+・自身の闘病経験からコロナ禍により患者は外部との交流ができない為、オンラインでの情報交換、記録、完治した方のアドバイスなどが共有できるサイトがあれば
+　治療の励みになると思い、このテーマを選びました。
+　
+##ターゲットユーザー
+・闘病中の患者、または社会復帰されたがん経験者
 
-* System dependencies
+##主な利用シーン
+・闘病の記録や、がんに関する情報を検索したり、することができる。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
